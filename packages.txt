@@ -1,0 +1,17 @@
+autoclose-html@0.23.0
+docblockr@0.7.3
+emmet@2.4.3
+ex-mode@0.8.0
+file-icons@1.7.12
+linter@1.11.4
+linter-csslint@1.3.2
+linter-jade@0.3.2
+linter-jshint@2.1.0
+linter-jsonlint@1.1.2
+linter-tidy@2.1.0
+minimap@4.18.2
+terminal-plus@0.14.5
+vim-mode@0.64.0
+vim-mode-visual-block@0.2.15
+
+
